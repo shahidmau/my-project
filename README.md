@@ -3,6 +3,7 @@
 
 ```
 git add --all
+git commit -m "Adds git commands in readme"
 git pull origin master
 git push origin master
 ```
