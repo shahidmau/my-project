@@ -22,3 +22,8 @@ git merge origin/dev
 ```
 
 ## some more changes.
+hello everyone. sorry I forgot to put the commit msg.
+
+git add shahid.txt
+git add kamil.txt
+git add my-folder/kamil.txt
