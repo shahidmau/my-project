@@ -13,3 +13,10 @@ git push origin master
 ```
 git checkout -b my-feature
 ```
+
+## Rebase remote branch to your local branch.
+```
+# commit all your local changes.
+git fetch
+git merge origin/dev
+```
