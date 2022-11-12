@@ -8,7 +8,7 @@ git pull origin master
 git push origin master
 ```
 
-hello everyone.
+hello everyone. sorry I forgot to put the commit msg.
 
 git add shahid.txt
 git add kamil.txt
