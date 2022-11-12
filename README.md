@@ -8,6 +8,7 @@ git pull origin master
 git push origin master
 ```
 
+hello everyone.
 
 git add shahid.txt
 git add kamil.txt
